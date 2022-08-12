@@ -16,3 +16,4 @@ class testdemo{
 		System .out.println(myobj3.x); 
 	}
 }
+ 
